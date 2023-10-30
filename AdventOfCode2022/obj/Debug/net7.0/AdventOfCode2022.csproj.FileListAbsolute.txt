@@ -1,0 +1,15 @@
+/Users/nikitamakarov/Documents/GitHub/advent-of-code-2022/AdventOfCode2022/bin/Debug/net7.0/AdventOfCode2022
+/Users/nikitamakarov/Documents/GitHub/advent-of-code-2022/AdventOfCode2022/bin/Debug/net7.0/AdventOfCode2022.deps.json
+/Users/nikitamakarov/Documents/GitHub/advent-of-code-2022/AdventOfCode2022/bin/Debug/net7.0/AdventOfCode2022.runtimeconfig.json
+/Users/nikitamakarov/Documents/GitHub/advent-of-code-2022/AdventOfCode2022/bin/Debug/net7.0/AdventOfCode2022.dll
+/Users/nikitamakarov/Documents/GitHub/advent-of-code-2022/AdventOfCode2022/bin/Debug/net7.0/AdventOfCode2022.pdb
+/Users/nikitamakarov/Documents/GitHub/advent-of-code-2022/AdventOfCode2022/obj/Debug/net7.0/AdventOfCode2022.csproj.AssemblyReference.cache
+/Users/nikitamakarov/Documents/GitHub/advent-of-code-2022/AdventOfCode2022/obj/Debug/net7.0/AdventOfCode2022.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikitamakarov/Documents/GitHub/advent-of-code-2022/AdventOfCode2022/obj/Debug/net7.0/AdventOfCode2022.AssemblyInfoInputs.cache
+/Users/nikitamakarov/Documents/GitHub/advent-of-code-2022/AdventOfCode2022/obj/Debug/net7.0/AdventOfCode2022.AssemblyInfo.cs
+/Users/nikitamakarov/Documents/GitHub/advent-of-code-2022/AdventOfCode2022/obj/Debug/net7.0/AdventOfCode2022.csproj.CoreCompileInputs.cache
+/Users/nikitamakarov/Documents/GitHub/advent-of-code-2022/AdventOfCode2022/obj/Debug/net7.0/AdventOfCode2022.dll
+/Users/nikitamakarov/Documents/GitHub/advent-of-code-2022/AdventOfCode2022/obj/Debug/net7.0/refint/AdventOfCode2022.dll
+/Users/nikitamakarov/Documents/GitHub/advent-of-code-2022/AdventOfCode2022/obj/Debug/net7.0/AdventOfCode2022.pdb
+/Users/nikitamakarov/Documents/GitHub/advent-of-code-2022/AdventOfCode2022/obj/Debug/net7.0/AdventOfCode2022.genruntimeconfig.cache
+/Users/nikitamakarov/Documents/GitHub/advent-of-code-2022/AdventOfCode2022/obj/Debug/net7.0/ref/AdventOfCode2022.dll
